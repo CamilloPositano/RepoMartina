@@ -1,0 +1,5 @@
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestionalePazienti.Martina.Domain\bin\Debug\GestionalePazienti.Martina.Domain.dll
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestionalePazienti.Martina.Domain\bin\Debug\GestionalePazienti.Martina.Domain.pdb
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestionalePazienti.Martina.Domain\obj\Debug\GestionalePazienti.Martina.Domain.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestionalePazienti.Martina.Domain\obj\Debug\GestionalePazienti.Martina.Domain.dll
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestionalePazienti.Martina.Domain\obj\Debug\GestionalePazienti.Martina.Domain.pdb

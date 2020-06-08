@@ -1,0 +1,11 @@
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestitonalePazienti.Martina.DAL\bin\Debug\GestitonalePazienti.Martina.DAL.dll
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestitonalePazienti.Martina.DAL\bin\Debug\GestitonalePazienti.Martina.DAL.pdb
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestitonalePazienti.Martina.DAL\bin\Debug\EntityFramework.dll
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestitonalePazienti.Martina.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestitonalePazienti.Martina.DAL\bin\Debug\EntityFramework.xml
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestitonalePazienti.Martina.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestitonalePazienti.Martina.DAL\obj\Debug\GestitonalePazienti.Martina.DAL.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestitonalePazienti.Martina.DAL\obj\Debug\GestitonalePazienti.Martina.DAL.csproj.CopyComplete
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestitonalePazienti.Martina.DAL\obj\Debug\GestitonalePazienti.Martina.DAL.dll
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestitonalePazienti.Martina.DAL\obj\Debug\GestitonalePazienti.Martina.DAL.pdb
+C:\Users\camil\source\repos\GestionalePazienti.Martina\GestitonalePazienti.Martina.DAL\bin\Debug\GestitonalePazienti.Martina.DAL.dll.config
